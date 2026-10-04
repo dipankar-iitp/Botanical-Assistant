@@ -1,0 +1,6 @@
+{
+  "name": "Botanical Assistant",
+  "description": "Multimodal Botanical Database Assistant and AI Herbalist for plant identification, medicinal properties, and toxicity analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
